@@ -1,0 +1,4 @@
+#Calculo da Velocidade
+def velocidade_media(distancia, tempo):
+    return(distancia/tempo)
+

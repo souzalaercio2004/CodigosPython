@@ -1,0 +1,1 @@
+print('Friedrich Nietzsche certa vez disse: "Minha solidão não tem nada a ver com a presença ou ausência de pessoas… Detesto quem me rouba a solidão, sem em troca me oferecer verdadeiramente companhia."' )
