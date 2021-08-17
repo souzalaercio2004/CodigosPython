@@ -1,4 +1,0 @@
-# CodigosPython
-# CodigosEmPython
-# CodigosEmPython
-# CodigosPython
